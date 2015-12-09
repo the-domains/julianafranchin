@@ -1,7 +1,7 @@
 name: julianafranchin
 favicon: null
-layout_spectrum: 0.034642849350348115
-typography_spectrum: 0.9742410809267312
+layout_spectrum: 0.49522
+typography_spectrum: 0.57917
 title: Juliana Franchin
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.07615932333283126
-  lightness: 0.8814896096009761
-  saturation: 0.396373494528234
-  rhythmicContrast: 0.9741809291299433
+    - '#ffffff'
+    - '#5fc7ce'
+    - '#9fb7dd'
+    - '#70a5cf'
+    - '#d1ecee'
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
